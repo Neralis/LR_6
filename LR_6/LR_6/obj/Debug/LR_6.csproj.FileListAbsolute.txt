@@ -1,0 +1,9 @@
+C:\Users\ip521-14\source\repos\LR_6\LR_6\bin\Debug\LR_6.exe.config
+C:\Users\ip521-14\source\repos\LR_6\LR_6\bin\Debug\LR_6.exe
+C:\Users\ip521-14\source\repos\LR_6\LR_6\bin\Debug\LR_6.pdb
+C:\Users\ip521-14\source\repos\LR_6\LR_6\obj\Debug\LR_6.csprojAssemblyReference.cache
+C:\Users\ip521-14\source\repos\LR_6\LR_6\obj\Debug\LR_6.Properties.Resources.resources
+C:\Users\ip521-14\source\repos\LR_6\LR_6\obj\Debug\LR_6.csproj.GenerateResource.cache
+C:\Users\ip521-14\source\repos\LR_6\LR_6\obj\Debug\LR_6.csproj.CoreCompileInputs.cache
+C:\Users\ip521-14\source\repos\LR_6\LR_6\obj\Debug\LR_6.exe
+C:\Users\ip521-14\source\repos\LR_6\LR_6\obj\Debug\LR_6.pdb
